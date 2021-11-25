@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      
+      <class name="com.projectboibazar.test.Boibazar.com.TC_1_Visitsite"/>
+      <class name="com.projectboibazar.test.Boibazar.com.TC_2_Filter"/>
+      <class name="com.projectboibazar.test.Boibazar.com.TC_3_AddtoCart"/>
+      <class name="com.projectboibazar.test.Boibazar.com.TC_5_OrderConfirm"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
